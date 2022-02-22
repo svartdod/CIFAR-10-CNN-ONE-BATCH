@@ -10,6 +10,8 @@ Original file is located at
 #Deep Learning LSTM Trainging + TEST PART 
 #HARROUZ MOUAD Faculty of Science and Technology MASTER2 ISICG 20208044
 #Biyuzan  HAMZA Faculty of Science and Technology Master2 ISICG 20187435
+#Ben salem chaima Faculty of Science and Technology Master2 ISICG 20217435
+
 
 import tensorflow as tf
 import numpy as np
